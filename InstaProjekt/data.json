@@ -1,0 +1,28 @@
+{
+    "data" : 
+    [
+        {
+            "pics":"mechwart.png",
+            "hashtag":"#abrandem",
+            "like": 127
+        },
+        
+        {
+            "pics":"mci.jpg",
+            "hashtag":"#mymansion",
+            "like": 432
+        },
+        
+        {
+            "pics":"mandris.jpg",
+            "hashtag":"#elegtuzlett",
+            "like": 762
+        },
+        
+        {
+            "pics":"gep.jpg",
+            "hashtag":"#idkfeltforradalmi",
+            "like": 66
+        }
+    ]
+}
